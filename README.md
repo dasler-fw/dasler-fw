@@ -1,4 +1,4 @@
-## 🚀 Frontend Developer  
+## 🚀 Fullstack Developer  
 **Looking for those who are ready to work with a great employee.**
 
 ## Stack:

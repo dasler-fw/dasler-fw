@@ -2,7 +2,7 @@
 
 # Adam Umarov
 
-### Senior Frontend Developer | Team Lead | Mobile Developer
+### Senior Frontend Developer | Team Lead | Mobile Developer | Web Developer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3178C6&center=true&vCenter=true&width=435&lines=7%2B+years+in+Software+Development;Team+Lead+%40+NAUMEN;React+%7C+React+Native+%7C+TypeScript;Building+scalable+enterprise+apps)](https://git.io/typing-svg)
 
@@ -170,19 +170,6 @@ Mobile apps for fitness tracking & IoT devices
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dasler-fw&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasler-fw&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dasler-fw&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
----
-
 ## Featured Projects
 
 <div align="center">
@@ -192,7 +179,7 @@ Mobile apps for fitness tracking & IoT devices
 
 </div>
 
-> Most of my work is in private enterprise repositories at NAUMEN
+> Most of my work is in private enterprise repositories
 
 ---
 
@@ -201,7 +188,6 @@ Mobile apps for fitness tracking & IoT devices
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/forceusr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-dasler-4279b6225)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adidasler000@gmail.com)
 
 </div>

@@ -157,32 +157,6 @@ Mobile apps for fitness tracking & IoT devices
 
 ---
 
-## Key Achievements
-
-| Achievement | Impact |
-|-------------|--------|
-| Feature Sliced Design Implementation | Restructured 5000+ file enterprise project |
-| JavaScript to TypeScript Migration | Full codebase migration with zero downtime |
-| Company Branch Opening | Established new office location |
-| Team Growth | Mentored 4+ developers from junior to middle |
-| Public Speaking | Conference presentations on architecture & roadmaps |
-| Technical Interviews | 50+ interviews as lead & external expert |
-
----
-
-## Featured Projects
-
-<div align="center">
-
-[![Bookcrossing](https://github-readme-stats.vercel.app/api/pin/?username=dasler-fw&repo=bookcrossing&theme=tokyonight&hide_border=true)](https://github.com/dasler-fw/bookcrossing)
-[![Next Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=dasler-fw&repo=next-dash&theme=tokyonight&hide_border=true)](https://github.com/dasler-fw/next-dash)
-
-</div>
-
-> Most of my work is in private enterprise repositories
-
----
-
 ## Connect With Me
 
 <div align="center">
@@ -195,12 +169,6 @@ Mobile apps for fitness tracking & IoT devices
 ---
 
 <div align="center">
-
-### Open for opportunities
-
-**Senior Frontend Developer | Team Lead | Mobile Developer**
-
-*Interested in challenging projects with modern tech stack*
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 

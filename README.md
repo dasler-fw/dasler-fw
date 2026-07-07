@@ -2,7 +2,7 @@
 
 # Adam Umarov
 
-### Senior Frontend Developer | Team Lead | Mobile Developer | Web Developer
+### Senior Developer | Team Lead | Mobile Developer | Web Developer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3178C6&center=true&vCenter=true&width=435&lines=7%2B+years+in+Software+Development;Team+Lead+%40+NAUMEN;React+%7C+React+Native+%7C+TypeScript;Building+scalable+enterprise+apps)](https://git.io/typing-svg)
 
@@ -17,7 +17,7 @@
 
 ```typescript
 const adam = {
-  role: "Senior Frontend Developer & Team Lead",
+  role: "Senior Developer & Team Lead",
   company: "NAUMEN",
   experience: "7+ years",
   location: "Krasnodar, Russia",
